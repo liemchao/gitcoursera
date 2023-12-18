@@ -25,7 +25,7 @@
 
 ## Introduction
 
-**Congratulations** on deciding to participate in 30 days of JavaScript programming challenge. In this challenge, you will learn everything you need to be a JavaScript programmer, and in general, the whole concept of programming. In the end of the challenge, you will get a 30DaysOfJavaScript programming challenge completion certificate. In case you need help or if you would like to help others you may join the dedicated [telegram group](https://t.me/ThirtyDaysOfJavaScript).
+**Congratulations** on deciding to participate in 30 days of JavaScript programming challenge. In this challenge, you will learn everything you need to be a JavaScript programmer, and in general, the whole concept of programming. In the end of the challenge, you will get a 30DaysOfJavaScript programming challenge completion certificate. 
 
 **Assignment** challenge is a guide for both beginners and advanced JavaScript developers. Welcome to JavaScript. JavaScript is the language of the web. I enjoy using and teaching JavaScript and I hope you will do so too.
 
@@ -35,11 +35,6 @@ JavaScript is used **_to add interactivity to websites, to develop mobile apps, 
 **_JavaScript (JS)_** has increased in popularity in recent years and has been the leading
 programming language for last ten years and is the most used programming language on
 GitHub.
-
-This challenge is easy to read, written in conversational English, engaging, motivating and at the same time, it is very demanding. You need to allocate much time to finish this challenge. If you are a visual learner, you may get the video lesson on <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw"> Washera</a> YouTube channel. Subscribe the channel, comment and ask questions on YouTube vides and be proactive, the author will eventually notice you.
-
-The author likes to hear your opinion about the challenge, share the author by expressing your thoughts about the 30DaysOfJavaScript challenge. You can leave your testimonial on this [link](https://testimonial-vdzd.onrender.com//)
-
 ## Requirements
 
 No prior knowledge of programming is required to follow this challenge. You need only:
@@ -56,13 +51,13 @@ I believe you have the motivation and a strong desire to be a developer, a compu
 
 ### Install Node.js
 
-You may not need Node.js right now but you may need it for later. Install [node.js](https://nodejs.org/en/).
+You may not need Node.js right now but you may need it for later. Install [node.js].
 
-![Node download](images/download_node.png)
+![Node download]
 
 After downloading double click and install
 
-![Install node](images/install_node.png)
+![Install node]
 
 We can check if node is installed on our local machine by opening our device terminal or command prompt.
 
@@ -79,9 +74,9 @@ There are many browsers out there. However, I strongly recommend Google Chrome.
 
 #### Installing Google Chrome
 
-Install [Google Chrome](https://www.google.com/chrome/) if you do not have one yet. We can write small JavaScript code on the browser console, but we do not use the browser console to develop applications.
+Install [Google Chrome] if you do not have one yet. We can write small JavaScript code on the browser console, but we do not use the browser console to develop applications.
 
-![Google Chrome](images/google_chrome.png)
+![Google Chrome]
 
 #### Opening Google Chrome Console
 
