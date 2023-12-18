@@ -5,8 +5,7 @@
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 
 <div>
-<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FBieutuong.Logo%2Fphotos%2Fa.893001420813268%2F911999408913469%2F%3Ftype%3D3&psig=AOvVaw2H3fVIC67WYDcpDr_YhYs2&ust=1702976936061000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODqgszRmIMDFQAAAAAdAAAAABAE' alt='Paypal Logo' style="width:10%"/></a>
+<small>Support the <strong>author</strong> to create more educational materials</small> <br />
 </div>
 
 <div align="center">
@@ -23,45 +22,6 @@
 </div>
 </div>
 
-[Day 2 >>](./02_Day_Data_types/02_day_data_types.md)
-
-![Thirty Days Of JavaScript](./images/day_1_1.png)
-
-- [30 Days Of JavaScript](#30-days-of-javascript)
-- [📔 Day 1](#-day-1)
-  - [Introduction](#introduction)
-  - [Requirements](#requirements)
-  - [Setup](#setup)
-    - [Install Node.js](#install-nodejs)
-    - [Browser](#browser)
-      - [Installing Google Chrome](#installing-google-chrome)
-      - [Opening Google Chrome Console](#opening-google-chrome-console)
-      - [Writing Code on Browser Console](#writing-code-on-browser-console)
-        - [Console.log](#consolelog)
-        - [Console.log with Multiple Arguments](#consolelog-with-multiple-arguments)
-        - [Comments](#comments)
-        - [Syntax](#syntax)
-      - [Arithmetics](#arithmetics)
-    - [Code Editor](#code-editor)
-      - [Installing Visual Studio Code](#installing-visual-studio-code)
-      - [How to Use Visual Studio Code](#how-to-use-visual-studio-code)
-  - [Adding JavaScript to a Web Page](#adding-javascript-to-a-web-page)
-    - [Inline Script](#inline-script)
-    - [Internal Script](#internal-script)
-    - [External Script](#external-script)
-    - [Multiple External Scripts](#multiple-external-scripts)
-  - [Introduction to Data types](#introduction-to-data-types)
-    - [Numbers](#numbers)
-    - [Strings](#strings)
-    - [Booleans](#booleans)
-    - [Undefined](#undefined)
-    - [Null](#null)
-  - [Checking Data Types](#checking-data-types)
-  - [Comments Again](#comments-again)
-  - [Variables](#variables)
-- [💻 Day 1: Exercises](#-day-1-exercises)
-
-# 📔 Day 1
 
 ## Introduction
 
