@@ -1,4 +1,4 @@
-# 30 Days Of JavaScript
+# Assignment Of JavaScript
 
                                    |
 
@@ -6,7 +6,7 @@
 
 <div>
 <small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
+<a href = "https://www.paypal.me/asabeneh"><img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FBieutuong.Logo%2Fphotos%2Fa.893001420813268%2F911999408913469%2F%3Ftype%3D3&psig=AOvVaw2H3fVIC67WYDcpDr_YhYs2&ust=1702976936061000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODqgszRmIMDFQAAAAAdAAAAABAE' alt='Paypal Logo' style="width:10%"/></a>
 </div>
 
 <div align="center">
